@@ -1,0 +1,11 @@
+{
+  "name": "OrthoDeck",
+  "author": "ElectricTurtle",
+  "version": "v1.0",
+  "description": "Turns your keyboard into an ortholinear keyboard!",
+  "target": "Keyboard",
+  "manifest_version": 9,
+  "inject": {
+    "shared.css": ["bigpicture", "QuickAccess", "MainMenu"]
+  }
+}

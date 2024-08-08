@@ -1,0 +1,65 @@
+._1aRfukhP4Nh7hZBJ8-L3De {
+    width: 0%;
+    flex-grow: 1;
+}
+._271DsGJhHn3BD54YOUPL0N {
+    width: 0%;
+    flex-grow: 1;
+}
+.gH3GXy_pSGITXpVNIvqDz {
+    width: 0%;
+    flex-grow: 1;
+}
+._1rfxtogP84zp4guAG6cgE0 {
+    width: 0%;
+    flex-grow: 1;
+}
+._1wo4o3sNHo__aOloz9N7z- {
+    width: 0.38%;
+    flex-grow: 2;
+}
+._1hkFOPZavuC7pn2x14l2b1 {
+    width: auto;
+    flex-grow: 1.33;
+}
+
+
+._2eYidO29S84XHj97GM-9Jw {
+    width: auto;
+    flex-grow: 1.33;
+}
+._1PcoebzTV2-QhRKPI3M31i {
+    width: 7.2%;
+    flex-grow: 0;
+}
+._2SNfIXUJxJlV0MYXXuycn {
+    width: 0%;
+    flex-grow: 1;
+}
+._1PcoebzTV2-QhRKPI3M31i {
+    width: 6.81%;
+    flex-grow: 0;
+}
+
+/* removing text on small buttons and adding icons to them */
+.NGv5FNsp6c4OnD0_KOiDl span::before {
+    content: '⇯';
+    visibility: visible;
+    font-size: x-large;
+}
+.NGv5FNsp6c4OnD0_KOiDl span {
+    visibility: hidden;
+}
+
+
+._3LsB3VZBjMjAp0RCa_3MGS span::before {
+    margin: 0px 8px 6px;
+    margin-left: 25px;
+    content: ' ⇦';
+    visibility: visible;
+    text-align: right;
+    font-size: x-large;
+}
+._3LsB3VZBjMjAp0RCa_3MGS span {
+    visibility: hidden;
+}
